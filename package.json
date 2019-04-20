@@ -1,0 +1,16 @@
+{
+  "name": "teamcookies",
+  "version": "1.0.0",
+  "description": "tc/help / bienvenu(e), sur le serveur de la #TeamCookies",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gamelog",
+  "license": "ISC"
+}
