@@ -1,3 +1,3 @@
 {
-    "token": "NTY4MDAwNDI0NzI5MTE2Njcy.XLcSaw.e04vfGwWoGTn811jY2mnJQkGGyk"
+    "token": "process.env.TOKEN"
 }
